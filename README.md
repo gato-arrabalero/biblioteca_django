@@ -1,10 +1,5 @@
-# biblioteca_django
-# Sistema Back-end de una bibliotcea con tablas y llaves foraneas de libors .autors y sistema de prestamo
-# Modulado en aplicaciones y sistemas de Url para una myor control y escalabilidad jajajjaj como si fuera a crecer mucho ....pero bueno....
-# Como es un proyecto educativo meramente usa una base de datos sqlite3 , nada rudo !!
-
-# Esta dividido en application --> aplicaciones creadas esta a su vez cuenta con sus manager , su gestion de urls y sus modelos propios para que si truena una no truene todo el
-# el servicio 
-
-# No integre la carpeta del entorno Virtual con las apliacciones dependiente ya que que como educativo , pero si alguien le intersa , con gusto le puedo madar el requeriment.
-d
+#Biblioteca Django
+#Es un sitema de consuktas basicas en django sobre una biblioteca y 5 tablas en sqlite --> muy basico mas que nada para practicar y aprender
+#Esta modulado por aplicaiones  y Managers que sin lo sque hacen la logica de las consultas Sql
+#No cuenta con front-end -->archivos estaticos ya que solo me sentre en ver como se hacian consultas con el Orm y python.
+#ESte proyecyo es didactico 
