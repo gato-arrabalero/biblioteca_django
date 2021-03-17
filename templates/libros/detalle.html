@@ -1,0 +1,18 @@
+<h1>Detalle del libro</h1>
+
+<p>{{object.titulo}}</p>
+<p>{{object.fecha}}</p>
+<p>{{object.categoria}}</p>
+
+<p>"""""""""""""""""""""Many to Many """"""""""""""""""</p>
+
+<ul>
+<!--autores una lista ya que en nuestro modelo lo pusimos m2m por lo tanto all es traer a todos los 
+elementos de esa lista -->        
+    {% for autor in object.autores.all  %}
+        <li>
+             {{autor}}
+        </li>
+    {% endfor %}
+        
+</ul>
