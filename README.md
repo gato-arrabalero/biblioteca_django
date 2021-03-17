@@ -7,3 +7,4 @@
 # el servicio 
 
 # No integre la carpeta del entorno Virtual con las apliacciones dependiente ya que que como educativo , pero si alguien le intersa , con gusto le puedo madar el requeriment.
+d
