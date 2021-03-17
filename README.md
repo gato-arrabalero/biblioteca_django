@@ -1,6 +1,13 @@
 #Biblioteca Django
 
 
+
+
+#Trae sus settings divididos en local y base (emulando un entorno de trabajo) y todo esta en un ambiente virtual "venv" encapsulado.
+
+
+
+
 #Es un sitema de consultas basicas en django sobre una biblioteca copuestas por 5 tablas en sqlite --> muy basico mas que nada para practicar y aprender
 
 
